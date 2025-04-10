@@ -3,7 +3,7 @@
 **Automate Flutter package setup with zero hassle!**  
 A powerful tool that handles package integration, platform configuration, and boilerplate generation in one click.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://www.svgrepo.com/show/444064/legal-license-mit.svg)](LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.0-blue)](https://flutter.dev)
 
 <p align="center">
@@ -32,7 +32,7 @@ A powerful tool that handles package integration, platform configuration, and bo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/flutter-package-integrator.git
+git clone https://github.com/AhmedElmagdob/maptask/
 cd flutter-package-integrator
 
 # Install dependencies
