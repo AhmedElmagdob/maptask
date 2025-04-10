@@ -4,7 +4,7 @@
 A powerful tool that handles package integration, platform configuration, and boilerplate generation in one click.
 
 [![License: MIT](https://www.svgrepo.com/show/444064/legal-license-mit.svg)](LICENSE)
-[![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.0-blue)](https://flutter.dev)
+[![Flutter](https://www.reshot.com/preview-assets/icons/TZCXQGV5F4/maps-TZCXQGV5F4.svg)](https://flutter.dev)
 
 <p align="center">
   <img src="https://i.imgur.com/JqkX2zG.gif" alt="Demo" width="600">
