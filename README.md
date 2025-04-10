@@ -1,0 +1,46 @@
+# 🚀 Flutter Package Integration Automator
+
+**Automate Flutter package setup with zero hassle!**  
+A powerful tool that handles package integration, platform configuration, and boilerplate generation in one click.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.0-blue)](https://flutter.dev)
+
+<p align="center">
+  <img src="https://i.imgur.com/JqkX2zG.gif" alt="Demo" width="600">
+</p>
+
+## ✨ Features
+
+✅ **One-Command Integration**
+- Adds packages to `pubspec.yaml`
+- Configures Android/iOS automatically
+
+✅ **Smart Platform Setup**
+- Android: Updates `AndroidManifest.xml` & `build.gradle`
+- iOS: Configures `AppDelegate.swift` and `Info.plist`
+
+✅ **State Management Ready**
+- Generates **BLoC/Riverpod** templates
+- Pre-built map screen with live location
+
+✅ **User-Friendly**
+- GUI & CLI support
+- Interactive API key prompt
+
+## 🛠️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/flutter-package-integrator.git
+cd flutter-package-integrator
+
+# Install dependencies
+flutter pub get
+your_project/
+├── lib/
+│   ├── bloc/          # BLoC files (events, states)
+│   ├── screens/       # Pre-built map screen
+│   └── main.dart      # Updated entry point
+├── android/           # Auto-configured
+└── ios/               # Auto-configured
